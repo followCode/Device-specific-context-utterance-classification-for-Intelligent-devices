@@ -13,3 +13,6 @@ Speech Act Annotated DIAlogues is a small corpus of 35 timetable information and
 ## CNN for sentence classification
 Even though the originally intended purpose of Convolutional Neural Networks was to recognize images, our model is built using CNN mainly for the mathematical operations performed by it’s hidden layers which allows the network to identify features from the input data that may not have been learnt by other models such as the Multilayer perceptron. Also, of all the models that were developed the CNN model was able to provide an inference in the least amount of time. One aspect of implementing a CNN is that the input vectors are to be padded so as to have the desired input size for the model.
 
+## Model
+
+<img src="model.png" width="300px" height="700px"/> 
